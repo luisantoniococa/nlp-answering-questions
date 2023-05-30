@@ -1,22 +1,3 @@
-#      Covera NLP        #
-
-### Building a question-answering API
-
-Hello! On behalf of Covera Health, we are excited that you are considering joining our team!
-
-Part of your interview process consists of designing and building out an NLP service.
-
-This document contains detailed instructions on how to get started. Please take some time to read these instructions carefully.
-
-We really hope that you will enjoy working on this exercise with us; it's a small glimpse into what we do here on a day-to-day basis! Have fun! :)
-
-## Getting started
-
-### How the challenge will work:
-
-We will share this repo with you __3 days before__ your submission date. Please PR your code and make sure you commit
-any code you intend to execute or would like to show us. Also please email recruiting and let them know when you are done. 
-
 ### Build an NLP system
 We would like you to design and build an NLP service that is capable of:
 * accepting text and a list of questions
@@ -86,13 +67,3 @@ Signed by: [AWS-DEID]  [AWS-DEID]  [DEID] [DEID] [DEID] [DEID] [DEID]""",
         "status_code": 200}
 }]
 ```
-
-
-##### We are looking to see:
-* Code quality
-* What tools/framework do you use?
-* How you test your system?
-* What design decisions you make?
-* If your system breaks how would you troubleshoot?
-* How would you scale in terms of volume?
-* If you had three weeks instead of three days what would you do differently or in addition to what you did?
