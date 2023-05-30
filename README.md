@@ -2,6 +2,8 @@
 # NLP 
 #### *by Luis Antonio Coca*
 
+The following is a challenge that I got to develop in 72hrs. Everything from scratch
+
 **Acknowledgments:**
 *Thank you for giving me the opportunity to be part of this challenge. It wasn't easy, and I put a lot of time into this repo. I tried other things, but I couldn't get them quite right. Since I couldn't show up empty-handed, I come with a simple API solution in Python. Please review the post-mortem at the end of this readme, where I dig deeper into what could be improved with more time.*
 
