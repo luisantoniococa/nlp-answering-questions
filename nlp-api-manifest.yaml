@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nlp-deployment-v1
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: fastapi-app
+  template:
+    metadata:
+      labels:
+        app: fastapi-app
+    spec:
+      containers:
+        - name: fastapi-container
+          image: sonolacoca/nlp-fastapi-37-deployment:latest
+          ports:
+            - containerPort: 8080
+          envFrom:
+            - configMapRef:
+                name: config-from-localenv

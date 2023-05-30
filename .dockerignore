@@ -1,0 +1,10 @@
+.gitignore
+example1.json
+example2.json
+local_deployment.sh
+local_test.sh
+Pipfile
+Pipfile.lock
+README.md
+testing_payloads.txt
+requirements.txt

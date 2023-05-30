@@ -1,0 +1,2 @@
+    'text': """  No spinal cord demyelination. Spinal MRI within normal limits.  Right cerebellar hemangioblastoma again seen Approved and Electronically 
+Signed by: [AWS-DEID]  [AWS-DEID]  [DEID] [DEID] [DEID] [DEID] [DEID]"""
