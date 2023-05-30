@@ -1,5 +1,5 @@
 
-# Covera NLP 
+# NLP 
 #### *by Luis Antonio Coca*
 
 **Acknowledgments:**
